@@ -16,3 +16,6 @@ logo = "/img/logo_transparent.png"
 custom_css = ["css/custom.css"]
 showDates = false
 eahubURL = "https://eahub.org"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
